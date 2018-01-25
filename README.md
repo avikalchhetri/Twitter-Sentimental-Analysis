@@ -1,5 +1,3 @@
-CSYE7374_FinalProject_ Group3
-
 Deployment Instructions
 
 1. Start Zookeeper server
